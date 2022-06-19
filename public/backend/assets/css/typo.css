@@ -1,0 +1,31 @@
+.section-title{
+    font-family: 'Bitter', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:#051b35;
+    font-size: 20px;
+    font-weight: 400;
+}
+/* Lobster
+Roboto */
+
+.product-price{
+    font-family: 'Mono', sans-serif;
+    color:red;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.category-name{
+    font-family: 'Bitter', sans-serif;
+    color:black;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.navbar-text{
+    font-family: 'Mono', sans-serif;
+    color:black;
+    font-size: 14px;
+    font-weight: 600;
+}

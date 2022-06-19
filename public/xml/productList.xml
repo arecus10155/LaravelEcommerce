@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/xslt-route?" type="text/xsl"?>
+<products>
+ <productList>
+  <id>1</id>
+  <title>Xiaomi 11T Pro</title>
+  <price>2099</price>
+  <image>https://cf.shopee.com.my/file/fb96aed2f8165d90a6c20d41cfdddada</image>
+  <category>XIAOMI PHONES</category>
+  <product_code>11-01-01</product_code>
+  <color>Black</color>
+  <quantity>226</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description><p>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet services for and with the help of our Mi fans. We incorporate their feedback into our product range, which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso- ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong, Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is expanding its footprint across the world to become a global brand.</p></long_description>
+ </productList>
+ <productList>
+  <id>2</id>
+  <title>Xiaomi 11T</title>
+  <price>1899</price>
+  <image>https://cf.shopee.com.my/file/1e8510b55e743c3532a037794a7f55ec</image>
+  <category>XIAOMI PHONES</category>
+  <product_code>11-01-02</product_code>
+  <color>White</color>
+  <quantity>123</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>3</id>
+  <title>Xiaomi 11 Lite 5G NE</title>
+  <price>1699</price>
+  <image>https://cf.shopee.com.my/file/1e8510b55e743c3532a037794a7f55ec</image>
+  <category>XIAOMI PHONES</category>
+  <product_code>11-01-03</product_code>
+  <color>Grey</color>
+  <quantity>120</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>4</id>
+  <title>Redmi Note 11 Pro 5G</title>
+  <price>1199</price>
+  <image>//my-live-05.slatic.net/p/6a118bf9051b26669d2442929b495c11.jpg_720x720q80.jpg_.webp</image>
+  <category>REDMI PHONES</category>
+  <product_code>11-02-01</product_code>
+  <color>Black</color>
+  <quantity>53</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>5</id>
+  <title>Redmi Note 11 Pro</title>
+  <price>1099</price>
+  <image>//my-live-05.slatic.net/p/5bdc36c0f9b85c282a9184e46c1fda54.jpg_720x720q80.jpg_.webp</image>
+  <category>REDMI PHONES</category>
+  <product_code>11-02-02</product_code>
+  <color>Black</color>
+  <quantity>63</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>6</id>
+  <title>POCO M4 Pro 5G</title>
+  <price>1099</price>
+  <image>https://cf.shopee.com.my/file/d0e47cf634c6557d8121eae405438c70</image>
+  <category>POCOPHONE</category>
+  <product_code>11-03-01</product_code>
+  <color>Black</color>
+  <quantity>31</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>7</id>
+  <title>POCO X3 GT</title>
+  <price>1699</price>
+  <image>//my-live-05.slatic.net/p/49740e92010acbad5a7d1e863bc70f34.jpg_720x720q80.jpg_.webp</image>
+  <category>POCOPHONE</category>
+  <product_code>11-03-02</product_code>
+  <color>Black</color>
+  <quantity>0</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>8</id>
+  <title>Xiaomi Pad 5</title>
+  <price>1499</price>
+  <image>//my-live-05.slatic.net/p/443422c2743ea54bc806969250e39477.jpg_720x720q80.jpg_.webp</image>
+  <category>XIAOMI PAD</category>
+  <product_code>11-04-01</product_code>
+  <color>Black</color>
+  <quantity>123</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description><p>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet services for and with the help of our Mi fans. We incorporate their feedback into our product range, which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso- ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong, Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is expanding its footprint across the world to become a global brand.</p></long_description>
+ </productList>
+ <productList>
+  <id>9</id>
+  <title>Mi TV Q1 75</title>
+  <price>8000</price>
+  <image>https://cf.shopee.com.my/file/163316c44d12701ce7dcc1c95c2081e7</image>
+  <category>MI TV</category>
+  <product_code>11-05-01</product_code>
+  <color>Black</color>
+  <quantity>0</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description><p>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet services for and with the help of our Mi fans. We incorporate their feedback into our product range, which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso- ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong, Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is expanding its footprint across the world to become a global brand.</p></long_description>
+ </productList>
+ <productList>
+  <id>10</id>
+  <title>Mi TV P1 55</title>
+  <price>2499</price>
+  <image>https://cf.shopee.com.my/file/be2dfc00b301ca1dbac43311cb9acfd0</image>
+  <category>MI TV</category>
+  <product_code>11-05-02</product_code>
+  <color>Black</color>
+  <quantity>236</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description><p>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet services for and with the help of our Mi fans. We incorporate their feedback into our product range, which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso- ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong, Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is expanding its footprint across the world to become a global brand.</p></long_description>
+ </productList>
+ <productList>
+  <id>11</id>
+  <title>Mi Watch</title>
+  <price>469</price>
+  <image>//my-live-05.slatic.net/p/3be3aebdb45cb64656ae5ae7f9d02e7d.jpg_720x720q80.jpg_.webp</image>
+  <category>SMART DEVICES</category>
+  <product_code>11-06-01</product_code>
+  <color>Black</color>
+  <quantity>255</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>12</id>
+  <title>Mi Band 6</title>
+  <price>189</price>
+  <image>//my-live-05.slatic.net/p/6edb65c25790f86e13f02425dd89e186.jpg_720x720q80.jpg_.webp</image>
+  <category>SMART DEVICES</category>
+  <product_code>11-06-02</product_code>
+  <color>Black</color>
+  <quantity>34</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality
+technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet
+services for and with the help of our Mi fans. We incorporate their feedback into our product range,
+which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso-
+ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong,
+Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is
+expanding its footprint across the world to become a global brand.</long_description>
+ </productList>
+ <productList>
+  <id>13</id>
+  <title>Mi Watch Lite</title>
+  <price>209</price>
+  <image>https://my-live-05.slatic.net/p/e385191739ebaf0d6380a29aee17fc0d.jpg_720x720q80.jpg_.webp</image>
+  <category>SMART DEVICES</category>
+  <product_code>11-06-03</product_code>
+  <color>Black</color>
+  <quantity>12</quantity>
+  <short_description>Mi 11T Pro 5G 
+✔6.67" AMOLED ,120Hz Refresh rate
+✔Snapdragon 888 5G
+✔12GB RAM +256GB ROM
+✔108MP+8MP+5MP Rear Camera
+✔16MP Selfie camera
+✔5000mAh Battery ; 120W Xiaomi HyperCharge</short_description>
+  <long_description><p>Xiaomi was founded in 2010 by serial entrepreneur Lei Jun, who believes that high-quality technology doesn't need to cost a fortune. We create remarkable hardware, software, and internet services for and with the help of our Mi fans. We incorporate their feedback into our product range, which currently includes the Mi Note Pro, Mi Note, Mi 4, Redmi 2, Mi TV, Mi Band and other accesso- ries. With more than 61 million handsets sold in 2014, and products launched in Taiwan, Hong Kong, Singapore, Malaysia, Philippines, India, Indonesia and Brazil, Xiaomi is expanding its footprint across the world to become a global brand.</p></long_description>
+ </productList>
+ <productList>
+  <id>19</id>
+  <title>asdsads</title>
+  <price>123</price>
+  <image>http://127.0.0.1:8000/backend/assets/products/1730421610563867.png</image>
+  <category>SMART DEVICES</category>
+  <product_code>01-23-13</product_code>
+  <color>Black</color>
+  <quantity>123</quantity>
+  <short_description></short_description>
+  <long_description><p>Hello, World!</p></long_description>
+ </productList>
+</products>

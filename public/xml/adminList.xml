@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<User>
+ <Admin>
+  <id>1</id>
+  <name>admin</name>
+  <email>admin@gmail.com</email>
+  <profile_photo_path></profile_photo_path>
+  <roleID>2</roleID>
+  <created_at>2022-02-14 14:47:29</created_at>
+ </Admin>
+ <Admin>
+  <id>2</id>
+  <name>test</name>
+  <email>test@gmail.com</email>
+  <profile_photo_path>profile-photos/WsEnzKcYv2mrR1SbFp7yGtJJVMHnZ0abYoeLY4J4.jpg</profile_photo_path>
+  <roleID>2</roleID>
+  <created_at>2022-04-06 17:36:20</created_at>
+ </Admin>
+ <Admin>
+  <id>3</id>
+  <name>jj</name>
+  <email>jj@gmail.com</email>
+  <profile_photo_path></profile_photo_path>
+  <roleID>2</roleID>
+  <created_at>2022-04-06 17:51:28</created_at>
+ </Admin>
+ <Admin>
+  <id>11</id>
+  <name>ty</name>
+  <email>ty@gmail.com</email>
+  <profile_photo_path>profile-photos/0vaTGHstunFyUPvdAJPA93Pz8oQ7IBU2AkFDC0a5.jpg</profile_photo_path>
+  <roleID>2</roleID>
+  <created_at>2022-04-06 18:15:22</created_at>
+ </Admin>
+</User>

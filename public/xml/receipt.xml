@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/xslt-receipt-route?" type="text/xsl"?>
+<receipt>
+ <username>aa@gmail.com</username>
+ <address>asd, No.16 Jalan Pendekar 21 Lorong 1 Johor Bahru Johor 81300</address>
+ <dateTime>2022-04-07 12:16:14</dateTime>
+ <orderID>756725</orderID>
+ <status>TOSHIP</status>
+ <productList>
+  <name>Xiaomi 11T Pro</name>
+  <quantity>1</quantity>
+  <price>2099</price>
+  <linePrice>2099</linePrice>
+ </productList>
+ <totalPrice>2099</totalPrice>
+</receipt>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="/xslt-route" ?>
+
+<products>
+
+    @php
+    $products = Session::get('productList');
+    $i = 0;
+    @endphp
+
+    @foreach($products as $item)
+    <productList>
+
+    <title>{{$item->title}}
+    </title>
+    <price>2099</price>
+    <image>https://cf.shopee.com.my/file/fb96aed2f8165d90a6c20d41cfdddada
+    </image>
+    <category>Xiaomi Phones</category>
+    <product_code>11-01-01</product_code>
+ 
+    </productList>
+    @endforeach
+
+    <!-- <productList>
+   
+    <title>Xiaomi 11T</title>
+    <price>1899</price>
+    <image>https://cf.shopee.com.my/file/1e8510b55e743c3532a037794a7f55ec
+    </image>
+    <category>Xiaomi Phones</category>
+    <product_code>11-01-02</product_code>
+
+
+    </productList> -->
+
+</products>
